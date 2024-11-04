@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Social media: Why algorithms show violence to boys",
+  "description": "An insider tells the BBC why teenage boys are being targeted with extreme content.",
+  "url": "https://www.bbc.co.uk/news/articles/c4gdqzxypdzo",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b98/live/653fde30-68f7-11ef-b43e-6916dcba5cbf.jpg",
+  "publishedAt": "2024-09-02T13:52:17.0965729Z",
+  "content": "So, how do TikToks algorithms actually work? \r\nAccording to Andrew Kaung, the algorithms' fuel is engagement, regardless of whether the engagement is positive or negative. That could explain in part … [+2775 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Migrant farm worker deaths show cost of the 'American Dream'",
+  "description": "Jose Arturo Gonzalez Mendoza died in the heat on a farm 2023. His death highlights the dangerous work many migrants do.",
+  "url": "https://www.bbc.co.uk/news/articles/c4nn1w169kno",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8334/live/7ef95310-66fe-11ef-a006-fb0775301171.jpg",
+  "publishedAt": "2024-09-02T13:07:17.4077953Z",
+  "content": "One of the most dangerous jobs in the agricultural industry is dairy farming.\r\nThe dangers include overexposure to poisonous chemicals or hazardous machinery. Manure pits pose the risks of deadly tox… [+2251 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Maharashtra: Collapse of Shivaji statue shakes up politics in the state",
+  "description": "The massive statue of a revered 17th Century warrior king has sparked a controversy in Maharashtra state.",
+  "url": "https://www.bbc.co.uk/news/articles/cdd7pzve974o",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cf7e/live/11e0d2a0-690e-11ef-b970-9f202720b57a.jpg",
+  "publishedAt": "2024-09-02T12:52:17.0330995Z",
+  "content": "The collapse of a massive statue of a 17th Century ruler has sparked protests and a political controversy in the western Indian state of Maharashtra.\r\nShivaji Shahaji Bhosale was a warrior king whose… [+1667 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Animal handler attacked by tiger at Australian theme park",
+  "description": "The tiger handler, who was working at Dreamworld when the attack occured, is in a stable condition.",
+  "url": "https://www.bbc.co.uk/news/articles/czxl2ne2l5yo",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a12c/live/5708d2d0-68da-11ef-8053-114b6ef140b0.jpg",
+  "publishedAt": "2024-09-02T12:52:15.9083796Z",
+  "content": "QAS said medics were called to the scene at 09:01 local time on Monday (23:01 GMT on Sunday) following an incident with a tiger and that the woman was immediately taken to the Gold Coast University H… [+1023 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "AfD victory in Thuringia: Scholz urges 'firewall' to keep out far right",
+  "description": "The German Chancellor called the results of Sunday's state elections \"worrying\" and \"bitter\".",
+  "url": "https://www.bbc.co.uk/news/articles/cd05pdmzgp5o",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9f9a/live/d5fdafd0-691f-11ef-b970-9f202720b57a.jpg",
+  "publishedAt": "2024-09-02T12:37:16.0506143Z",
+  "content": "The German chancellor, Olaf Scholz, has urged mainstream parties not to lend support to the far-right Alternative for Germany (AfD) party, which won a big victory in the eastern state of Thuringia in… [+2207 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Australian childcare worker guilty of abusing dozens of girls",
+  "description": "Ashley Paul Griffith confessed to 307 offences at childcare centres in Australia and Italy between 2003 and 2022.",
+  "url": "https://www.bbc.co.uk/news/articles/c9v83rk38m8o",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b2e/live/deb2e8a0-6903-11ef-bbc8-218ebf60fca1.jpg",
+  "publishedAt": "2024-09-02T10:22:17.7870761Z",
+  "content": "The charges against him included 28 counts of rape, 190 counts of indecent treatment, 67 counts of making child exploitation material, four counts of producing such material, and one count of distrib… [+1352 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Japan teen jumps to death, killing pedestrian below",
+  "description": "The high school student jumped from a building in a crowded shopping district, hitting a woman below.",
+  "url": "https://www.bbc.co.uk/news/articles/cg4yp1ve2kno",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c087/live/17be9bc0-68e2-11ef-90bc-c772c7a7ba13.jpg",
+  "publishedAt": "2024-09-02T05:22:17.2832696Z",
+  "content": "Last year, 513 children took their own lives in Japan, with school problems cited as the most common factor.\r\nStudents who don't want to return to school are known as futoko, or people who dont go to… [+1210 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Russia-Ukraine war: Meeting the recruits preparing for battle",
+  "description": "As Kyiv fights on home soil and in Russia, Nick Beake speaks to recruits being sent to the battlefield.",
+  "url": "https://www.bbc.co.uk/news/articles/c0qe9ql8v95o",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7843/live/b7398bd0-687c-11ef-a5bb-8587be93a9de.png",
+  "publishedAt": "2024-09-02T05:07:17.2673431Z",
+  "content": "While were unable to ascertain the level of Ukrainian losses, its clear that Producer has been busy bringing back damaged and destroyed vehicles from inside Russia.\r\nI want this war to come to an end… [+1769 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Málaga tourism: 'People feel the city is collapsing'",
+  "description": "Protesting locals say hordes of tourists make the city feel like a \"theme park\".",
+  "url": "https://www.bbc.co.uk/news/articles/clyn5l20z72o",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7ba/live/e9ddb010-58a6-11ef-8f0f-0577398c3339.jpg",
+  "publishedAt": "2024-09-01T23:37:16.0644728Z",
+  "content": "Besides making these places less pleasant, locals say tourism has also pushed many smaller businesses out of the centre of cities. In their place have come franchise restaurants, bars and shops - and… [+1641 chars]"
+  },
+  {
+    "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "Titanic: Striking images reveal depths of ship's slow decay",
+  "description": "A new expedition finds that a large part of the railing at the ship's front has fallen away.",
+  "url": "https://www.bbc.co.uk/news/articles/crkm82enkgko",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5824/live/661c38d0-66a4-11ef-a253-6316bb688ebb.jpg",
+  "publishedAt": "2024-09-01T22:07:16.8270051Z",
+  "content": "The team has also announced another discovery of an artefact they were hoping to find even though it was against all the odds.\r\nIn 1986 a bronze statue called the Diana of Versailles was spotted and … [+885 chars]"
+  }
+  ]
+  }
