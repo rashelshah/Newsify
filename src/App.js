@@ -17,7 +17,7 @@ import {
 
 
 const App = ()=>{
-  const pagesize = 5;
+  const pagesize = 1;
   const apiKey = process.env.REACT_APP_API_KEY; 
   const [progress, setProgress] = useState(0)
    const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
