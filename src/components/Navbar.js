@@ -72,9 +72,6 @@ const MaterialUISwitch = styled(Switch)(({ theme }) => ({
 const Navbar = (props) => {
 
   let location = useLocation();
-    useEffect(() => {
-    console.log(location.pathname);
-  }, [location]);
   
     return (
 
